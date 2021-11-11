@@ -1,0 +1,69 @@
+   body 
+ {
+	 margin: 0;
+	 padding: 0;
+ }
+   .content
+	{
+	height:auto;
+	width:auto;
+	border-spacing:0px;
+	background-color:aqua;
+	margin: 10px;
+	border: 1px solid green;
+	font-size: 14px;
+	}
+	
+    .content1
+    {
+	height:50px;
+	width:15%;
+	padding:0.7%;
+    float:left;
+    color: black;
+	background-color:bisque;
+	font-size: 14px;
+    }
+	
+    .content2
+    {
+	height:auto;
+	width:auto;
+    margin: 0px 0.5% 0px 16.7%;	
+    color: black;
+	background-color:darkgray;
+    }
+
+	@media screen and (max-width: 768px) 
+{
+	.content1
+	{
+	height:50px;
+	width:90px;
+	padding:20px;
+    float:left;
+    color: black;
+	background-color:bisque;
+	}
+	
+	.content2 
+	{
+	height:auto;
+	width:70%;
+	margin:0%;
+	clear:left;
+	float:left;
+    color: black;
+	background-color:darkgray;
+	}
+	
+  
+}
+
+td{
+	vertical-align: top;
+	padding:0px;
+}
+p{
+	margin:0px;
+}

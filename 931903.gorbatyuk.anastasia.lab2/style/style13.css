@@ -1,0 +1,49 @@
+body 
+    {
+        margin: 0;
+        padding: 0;
+    }
+.content
+    {
+	font-size: 14px;
+	height:auto;
+	width:auto;
+	border-spacing:0px;
+	padding: 0px;
+	background-color:aqua;
+	margin: 10px;
+	border: 1px solid green;
+    }
+	
+    .content1
+    {
+	font-size: 14px;
+	height:50px;
+	width:100%;
+	padding: 15px;
+    color: black;
+	background-color:bisque;
+    }
+    .content2
+    {
+	height:auto;
+	width:auto;
+    color: black;
+	background-color:darkgray;
+    }
+	
+    .content3
+    {
+	height:40%;
+	width:48%;
+    float:right;
+	background-color:darkgray;
+    }
+
+	td{
+		vertical-align: top;
+		padding:0px;
+	}
+	p{
+		margin:0px;
+	}

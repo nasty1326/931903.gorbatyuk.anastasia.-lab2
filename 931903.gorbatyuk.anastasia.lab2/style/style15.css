@@ -1,0 +1,40 @@
+body 
+    {
+        margin: 0;
+        padding: 0;
+    }
+.content
+{
+display:grid;
+height:95%;
+width:95%;
+margin: 20px;
+grid-template-columns: repeat(auto-fill, minmax(130px, 	1fr));
+grid-gap: 70px;
+color: black;
+}
+
+.content > div
+{
+ font-size: 14px;
+ background-color:aquamarine;
+ width:200px;
+ height:100px;	
+}
+
+.content1
+{
+font-size: 14px;
+height:auto;
+width:max;
+background-color:bisque;
+margin: 0px 5px;
+}
+
+td{
+	vertical-align: top;
+	padding:0px;
+}
+p{
+	margin:0px;
+}

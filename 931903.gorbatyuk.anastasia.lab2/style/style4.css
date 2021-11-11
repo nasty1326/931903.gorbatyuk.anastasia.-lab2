@@ -1,0 +1,15 @@
+body 
+    {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .content
+    {
+	   height:auto;
+	   max-width:750px;
+	   width:auto;
+       background-color: blue;
+       color: white;
+       margin: 10px;
+    }

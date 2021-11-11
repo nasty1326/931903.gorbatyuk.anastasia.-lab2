@@ -1,0 +1,43 @@
+body 
+    {
+        margin: 0;
+        padding: 0;
+    }
+.header 
+    {
+        height: 70px;
+	    background-color: #EAEAEA;
+        font-size: 25px;
+        padding-top: 7px;
+        padding-left: 7px;
+    }
+
+.content 
+    {
+	    font-size: 12px;
+        height: auto;
+        background-color: #C8FC98;
+        width: 140px;
+        padding: 1px 7px 7px 7px;
+        line-height: 1.25;
+        float: left;
+        margin-right: 10px;
+    }
+	
+	.content1
+    {
+	    font-size: 12px;
+        padding: 1px 1px 7px 7px;
+        line-height: 1.25;
+    }
+	
+	.footer
+    {
+        height: 30px;
+        background-color: black;
+        text-align: center;
+        clear: both;
+    }
+
+
+	
